@@ -18,7 +18,7 @@ This is a sleek e-commerce app built using Flutter, allowing users to browse pro
 - Navigation: go_router
 - API Source: FakeAPI (Postman)
 
-## Video (for Simple e-commerce app)
+## Video (for e-commerce app)
 - https://drive.google.com/file/d/1-gy0MzT3y3Dvq5xUXTfmHL11astNZdq8/view?usp=sharing
 
 ## Installation
